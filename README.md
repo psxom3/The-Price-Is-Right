@@ -209,3 +209,15 @@ Tech Stack:
 •	Live Refresh with gr.Timer
 ________________________________________
 
+# 🚀 How to Run the Project
+
+You can run the project using:
+
+python price_is_right_final.py 
+
+or 
+
+python price_is_right.py
+________________________________________
+
+Note: Model files (ensemble_model.pkl, random_forest_model.pkl, test.pkl, train.pkl) and vector store (products_vectorstore) are excluded due to size contraints.
