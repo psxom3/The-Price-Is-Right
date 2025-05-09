@@ -4,6 +4,9 @@ An Autonomous Agentic AI System for Real-Time Deal Discovery- a modular, multi-a
 Here’s a detailed technical breakdown of each agent in this project, along with the specific tools, models, and technologies used by each. This will serve as a foundation for showing how every component contributes to the autonomous agentic AI system.
 ________________________________________
 🧠 Complete Agent Architecture of "The Price Is Right"
+
+![image](https://github.com/user-attachments/assets/e9663385-d3df-4ef7-8754-6dd2da97a1da)
+
 ________________________________________
 # 1. 🧭 Planning Agent – The Orchestrator
 
