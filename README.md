@@ -5,12 +5,17 @@ Here’s a detailed technical breakdown of each agent in this project, along wit
 ________________________________________
 🧠 Complete Agent Architecture of "The Price Is Right"
 ________________________________________
-1. 🧭 Planning Agent – The Orchestrator
+# 1. 🧭 Planning Agent – The Orchestrator
+
 Role:
 Coordinates all other agents. It initiates the system, triggers scanning, processes deals, and decides whether to notify the user.
+
 Workflow Responsibilities:
+
 •	Calls the ScannerAgent to fetch new deals
+
 •	Uses EnsembleAgent to estimate prices
+
 •	Selects the best opportunity (based on discount)
 •	If discount > $50, uses MessagingAgent to alert user
 Tech Stack:
